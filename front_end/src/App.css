@@ -89,6 +89,29 @@
   margin-left: 20px;
 }
 
+.product_list{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.product_list ul li{
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 5px;
+  width: 150px;
+}
+
+.product_list ul{
+  margin: 0;
+}
+
+.invalid_input{
+  color: red;
+  margin-top: -20px;
+  display: block;
+  margin-left: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
